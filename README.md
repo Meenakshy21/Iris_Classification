@@ -1,54 +1,56 @@
-Data Loading and Exploration:
+1.Data Loading and Exploration:
 
-Loads the Iris dataset from scikit-learn
+a)Loads the Iris dataset from scikit-learn
 
-Creates a pandas DataFrame for easier manipulation
+b)Creates a pandas DataFrame for easier manipulation
 
-Provides statistical summaries and visualizations
+c)Provides statistical summaries and visualizations
 
-Data Preprocessing:
+2.Data Preprocessing:
 
-Splits data into training and test sets
+a)Splits data into training and test sets
 
-Standardizes features using StandardScaler
+b)Standardizes features using StandardScaler
 
-Model Training:
+c)Model Training:
 
-Tests multiple classification algorithms:
+3.Tests multiple classification algorithms:
 
-Logistic Regression
+a)Logistic Regression
 
-K-Nearest Neighbors
+b)K-Nearest Neighbors
 
-Support Vector Machine
+c)Support Vector Machine
 
-Decision Tree
+d)Decision Tree
 
-Random Forest
+e)Random Forest
 
-Evaluates each model using accuracy, classification report, and confusion matrix
+4.Evaluates each model using accuracy, classification report, and confusion matrix
 
-Feature Importance:
+5.Feature Importance:
 
-Identifies which features are most important for classification
+a)Identifies which features are most important for classification
 
-Visualizes feature importance
+b)Visualizes feature importance
 
-Saving Results:
+c)Saving Results:
 
-Saves visualizations to image files
+d)Saves visualizations to image files
 
-Saves the best performing model for future use
+e)Saves the best performing model for future use
 
 
-The script will:
+6.The script will:
 
-Print statistical summaries of the dataset
+a)Print statistical summaries of the dataset
 
-Generate visualization plots (saved as PNG files)
+b)Generate visualization plots (saved as PNG files)
 
-Display evaluation metrics for each model
+c)Display evaluation metrics for each model
 
-Identify the best performing model
+d)Identify the best performing model
 
-Show feature importance (for models that support it)
+e)Show feature importance
+
+7.The above code is in ipynb and can run it in Jupyter Notebook
